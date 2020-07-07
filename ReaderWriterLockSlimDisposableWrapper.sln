@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReaderWriterLockSlimDisposableWrapper", "ReaderWriterLockSlimDisposableWrapper\ReaderWriterLockSlimDisposableWrapper.csproj", "{C1C7993A-C75D-4E82-B08F-C774AD6E8F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReaderWriterLockSlimDisposableWrapper.Test", "ReaderWriterLockSlimDisposableWrapper.Test\ReaderWriterLockSlimDisposableWrapper.Test.csproj", "{B9A885BE-B5E3-4604-BC83-8F9CCE9F8D01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1C7993A-C75D-4E82-B08F-C774AD6E8F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C7993A-C75D-4E82-B08F-C774AD6E8F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C7993A-C75D-4E82-B08F-C774AD6E8F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C7993A-C75D-4E82-B08F-C774AD6E8F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A885BE-B5E3-4604-BC83-8F9CCE9F8D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A885BE-B5E3-4604-BC83-8F9CCE9F8D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A885BE-B5E3-4604-BC83-8F9CCE9F8D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A885BE-B5E3-4604-BC83-8F9CCE9F8D01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D83583BF-2C96-4264-8477-D96BB0688A62}
+	EndGlobalSection
+EndGlobal
