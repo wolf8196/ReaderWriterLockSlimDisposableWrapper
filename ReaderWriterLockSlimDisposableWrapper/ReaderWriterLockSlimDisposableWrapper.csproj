@@ -10,6 +10,8 @@
     <PackageProjectUrl>https://github.com/wolf8196/ReaderWriterLockSlimDisposableWrapper</PackageProjectUrl>
     <RepositoryUrl>https://github.com/wolf8196/ReaderWriterLockSlimDisposableWrapper</RepositoryUrl>
     <PackageTags>readerwriterlockslim disposable</PackageTags>
+    <Authors>Roman Vovk</Authors>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
